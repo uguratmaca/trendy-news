@@ -1,0 +1,22 @@
+---
+layout: post
+category: articles
+title: "Babalar günü şarkısı"
+newsTitle: "Babalık en çok Tarkan’a yakışıyor"
+description: "Bunu ben demiyorum, hafta sonu Babalar Günü nedeniyle Poltio üzerinden anket düzenleyen GittiGidiyor e-ticaret sitesi söylüyor.."
+tags: ['en son haberler','en çok aratılanlar','Babalar günü şarkısı']
+reference: "http://www.hurriyet.com.tr/yazarlar/cengiz-semercioglu/babalik-en-cok-tarkana-yakisiyor-41242025"
+date: "2019-06-13T04:28:09.27"
+image: "http://i.hurimg.com/i/hurriyet/98/620x0/5d00efdc18c773251452ede2.jpg"
+---
+
+<p><br>&ldquo;Son bir yıl i&ccedil;inde baba olanlar arasında babalığı en &ccedil;ok yakıştırdığınız &uuml;nl&uuml; isim kim&rdquo; sorusunu 6.536 kişi oylamış...<br>Ankete katılanların neredeyse yarısı (y&uuml;zde 46) Tarkan demiş...<br>Y&uuml;zde 15&rsquo;le Burak &Ouml;z&ccedil;ivit ikinci, y&uuml;zde 13&rsquo;le Yetkin Dikinciler &uuml;&ccedil;&uuml;nc&uuml; olmuş...<br>Ben internet &uuml;zerinden yapılan oylamalara g&uuml;venmem, ge&ccedil;en ay Hande Er&ccedil;el d&uuml;nyanın en g&uuml;zel kadını se&ccedil;ildi biliyorsunuz...<br>Ama bu ankette Tarkan&rsquo;ın birinciliğine itirazımız olmaz...<br>&Ccedil;&uuml;nk&uuml; hayranları ona her şeyi yakıştırıyor, kaldı ki babalığın ona fazlasıyla yakıştığını ben de d&uuml;ş&uuml;n&uuml;yorum...<br>Bu vesileyle şimdiden b&uuml;t&uuml;n babaların, Babalar G&uuml;n&uuml;&rsquo;n&uuml; kutlarım.</p>
+<p><strong>İzlanda fır&ccedil;ası</strong></p>
+<p>2 saat havali-manında bekletilmeyi, bulaşık fır&ccedil;ası uzatılmasını o kadar b&uuml;y&uuml;k bir olaya d&ouml;n&uuml;şt&uuml;rd&uuml;k ki hep birlikte...<br>Hatta Şenol G&uuml;neş bile ma&ccedil; &ouml;ncesinde konuşmasının b&uuml;y&uuml;k b&ouml;l&uuml;m&uuml;n&uuml; bu olaylara ayırdı...<br>Futbolcular da karşılaşmayı, rakibi, ma&ccedil;ı falan unuttular...<br>Unuttukları 90 dakika boyunca o kadar belliydi ki, Milli Takım futbol bile oynamadı.<br>Bu krizi doğru ve aklıselim y&ouml;netmesi gereken Şenol G&uuml;neş de bize ayak uydurunca futbolcuları ma&ccedil;a hazırlayamadı.<br>Oysa Şenol G&uuml;neş&rsquo;in yapması gereken futbolcuları ma&ccedil;a konsantre etmekti...<br>Fransa ma&ccedil;ındaki Milli Takım&rsquo;la İzlanda ma&ccedil;ındaki Milli Takım arasındaki u&ccedil;urum başka t&uuml;rl&uuml; a&ccedil;ıklanamaz...</p>
+<p><strong>Hakkı Devrim olsaydı</strong></p>
+<p>Rahmetli Hakkı Devrim yaşasaydı, Hazal Filiz K&uuml;&ccedil;&uuml;kk&ouml;se&rsquo;yi Dil Yaresi&rsquo;ne konuk eder, &ldquo;Bak hanım kızım ona &lsquo;miladı doldu&rsquo; denmez, &lsquo;miadı doldu&rsquo; denir&rdquo; diye uyarırdı...<br>Eski eşi i&ccedil;in &ldquo;Miladı doldu&rdquo; lafını kameralar &ouml;n&uuml;nde defalarca ge&ccedil;iren Hazal Filiz K&uuml;&ccedil;&uuml;kk&ouml;se de kelimenin doğrusunu &ouml;ğrenmiş olurdu...<br>Rahmetle anıyorum kendisini...</p>
+<p><strong>Sermiyan Midyat ve Nev</strong></p>
+<p>Biri &uuml;lkenin bilinen, tanınan sinemacısı, diğeri &uuml;lkenin tanınan bilinen m&uuml;zisyeni...<br>Bir akşam B&uuml;y&uuml;kada&rsquo;da aynı mekanda yolları kesişiyor...<br>Biri diğerinden Ahmet Kaya şarkısı istediği, diğeri s&ouml;ylemediği i&ccedil;in aralarında kavga &ccedil;ıkıyor...<br>İddiaya g&ouml;re sandalyeler, yumruklar havada u&ccedil;uşuyor...<br>Sermiyan Midyat&rsquo;la Nev...<br>Olay Sermiyan&rsquo;ın alkol&uuml; fazla ka&ccedil;ırmasından &ccedil;ıkmış, Nev&rsquo;in olayda bir kusuru yok...<br>Ama bu &uuml;lkenin iki sanat&ccedil;ısı keyifli bir akşam sofrasında konuşarak anlaşamıyorsa biz neyi konuşuyoruz ki h&acirc;l&acirc;...<br>Benim itirazım bu &uuml;lkenin sanat&ccedil;ılarının bile &ccedil;&ouml;z&uuml;m&uuml; bulamamasına...<br>Yan yana bile gelmemesi gereken &ldquo;şiddet ve sanat&ccedil;ı&rdquo; kavramlarını bu kadar kolay hayatımıza sokmalarına... Sermiyan son yıllarda bu t&uuml;r haberlerle sık anılmaya başladı ki, dikkat diyorum...</p>
+<p><strong>Yine başıma iş alır mıyım acaba?</strong></p>
+<p>Merak ediyorum Bodrum&rsquo;da gece davetine mayo &uuml;zerine kaftanla katılan Ece S&uuml;kan&rsquo;ı eleştirsem...<br>Kadınların giyim kuşamına neden karışıyorsun diye fır&ccedil;a yer miyim acaba?<br>Ama yine de duramayıp yazıyorum işte...<br>Onur Başt&uuml;rk tarzını beğenmiş ama Bodrum da olsa ben Ece&rsquo;nin bu &lsquo;kıyafetini&rsquo; yersiz buldum...<br>Beach&rsquo;ten odaya &ccedil;ıkıp &uuml;zerine değiştirmeye vakit bulamadan akşam davetine katılmış gibi...</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d00efc118c773251452ede0 width=100%></p>
