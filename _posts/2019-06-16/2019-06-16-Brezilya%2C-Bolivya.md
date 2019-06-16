@@ -1,0 +1,86 @@
+---
+layout: post
+category: articles
+title: "Brezilya, Bolivya"
+newsTitle: "20 maddede Copa America Messi için  son çıkış!"
+description: "Ve en uzun soluklu futbol turnuvası ‘Copa America’nın 46’ncısı, cuma gecesi itibariyle başladı. 7 Temmuz’a dek sürecek kupada gözler, Arjantinli Lionel Messi’de olacak. Futbol kariyerinde kulübü Barcelona’yla uzanmadık başarı bırakmayan ama milli takım formasıyla henüz hiçbir kupaya uzanamayan 32 yaşındaki Arjantinli yıldız için bu turnuva, belki de son fırsat olacak.  Ligimizde forma giyen altı futbolcunun da boy göstereceği Copa America, TRT Spor’dan naklen yayımlanıyor. Ev sahibi Brezilya’nın en büyük kozu Neymar ise sakat..."
+tags: ['en son haberler','en çok aratılanlar','Brezilya, Bolivya']
+reference: "http://www.hurriyet.com.tr/kelebek/hurriyet-pazar/20-maddede-copa-america-messi-icin-son-cikis-41245135"
+date: "2019-06-16T05:00:00"
+image: "http://i.hurimg.com/i/hurriyet/98/620x0/5d05c93dc03c0e2484326dca.jpg"
+---
+
+<p><span style=color: #ff0000;><strong>Gruplarda kimler var? </strong></span></p>
+<p><strong>A Grubu </strong></p>
+<p>Brezilya, Bolivya, Venezuela, Peru</p>
+<p><strong>B Grubu </strong></p>
+<p>Arjantin, Kolombiya, Paraguay, Katar</p>
+<p><strong>C Grubu </strong></p>
+<p>Uruguay, Ekvador, Japonya, Şili</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e82ed3806c0f008d2314 width=100%></p>
+<p><span style=color: #0000ff;><strong>Japonya ve Katar neden turnuvada? <br></strong></span>Copa America, Conmebol &uuml;yesi 10 &uuml;lkenin katılımıyla ger&ccedil;ekleştiriliyor. Eliminasyona daha uygun katılımcı sayısına erişmek i&ccedil;in &ouml;nce Amerika kıtası daha sonra okyanus aşırı misafirler turnuvaya davet ediliyorlar. Bu yıl Portekiz ve İspanya başta olmak &uuml;zere altı takım davet ederek takım sayısını 16 yapacaklardı. Ancak fikst&uuml;r buna elvermedi. Asya Kupası finalisti iki takım Japonya ve Katar bu yıl Copa America&rsquo;nın misafir katılımcıları olarak m&uuml;cadele edecekler.</p>
+<p><strong><span style=color: #0000ff;>Konukların y&uuml;z&uuml; hi&ccedil; g&uuml;lmedi</span> </strong></p>
+<p>Copa America&rsquo;ya sadece CONMEBOL &uuml;lkeleri katılsaydı katılımcı sayısı 10 olarak kalacak ve turnuvaya pek uygun olamayacaktı.<strong> Bu nedenle 1993&rsquo;ten beri turnuva misafirlere de a&ccedil;ıldı. </strong>Ancak o d&ouml;nemden beri yapılan turnuvalarda hi&ccedil;bir misafir &uuml;lke turnuvayı kazanmayı başaramadı. Bu yılın konukları Japonya ve Katar&rsquo;ın durumunu g&ouml;receğiz.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e84bd3806c0f008d2316 width=100%></p>
+<p><span style=color: #0000ff;><strong>170 bin&nbsp;<br></strong></span>1989 yılında Maracana&rsquo;da oynanan Brezilya - Uruguay finalini izleyen kişi sayısı. 1-0 Brezilya&rsquo;nın kazandığı ma&ccedil;taki rekor seyirci sayısına bir daha ulaşılması zor g&ouml;r&uuml;n&uuml;yor. En azından Maracana&rsquo;da... &Ccedil;&uuml;nk&uuml; stadın kapasitesi artık 73 bin.&nbsp;</p>
+<p><span style=color: #0000ff;><strong>Evinde hep mutlu</strong></span></p>
+<p>Bug&uuml;ne kadar 1919, 1922, 1949 ve 1989 olmak &uuml;zere d&ouml;rt kez Copa America&rsquo;ya ev sahipliği yapan Brezilya, bu turnuvaların hepsinde g&uuml;len taraf oldu. Sambacılar beşinci kez ev sahibi ve seriyi s&uuml;rd&uuml;r&uuml;p s&uuml;rd&uuml;remeyeceklerini g&ouml;receğiz.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e857d3806c0f008d2318 width=100%></p>
+<p><strong><span style=color: #0000ff;>Tanıdık y&uuml;zler...</span> </strong></p>
+<p>&lsquo;Copa America 2019&rsquo;da Spor Toto</p>
+<p>S&uuml;per Lig&rsquo;de forma giyen altı futbolcu m&uuml;cadele edecek.</p>
+<p>Uruguay&rsquo;da Galatasaray&rsquo;ın file bek&ccedil;isi <strong>Fernando Muslera</strong>, &lsquo;Copa America&rsquo;nın konuğu.</p>
+<p>&lsquo;Son Şampiyon&rsquo; unvanlı Şili&rsquo;de Beşiktaş&rsquo;tan <strong>Gary Medel</strong>, Fenerbah&ccedil;eli&nbsp;<strong>Mauricio Isla</strong> ve&nbsp;Alanyasporlu <strong>Junior Fernandes</strong> oynayacak. Konyasporlu&nbsp;<strong>Paolo Hurtado</strong> Peru, Yeni Malatyasporlu&nbsp;<strong>Arturo Mina</strong> da Ekvador formasını terletecek.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e86bd3806c0f008d231a width=100%></p>
+<p><span style=color: #ff0000;><strong>Messi&rsquo;nin r&uuml;yası ger&ccedil;ek olacak mı?<br></strong></span>Futbolun zirvesindeki Lionel Messi&rsquo;nin b&uuml;y&uuml;kl&uuml;ğ&uuml;n&uuml; ispatlaması i&ccedil;in milli takım başarısı istendiği malum. Arjantinli yıldızın kariyerinde &lsquo;Copa America&rsquo; şampiyonluğu bulunmuyor. &lsquo;Tangocular&rsquo;, son beş turnuvanın d&ouml;rd&uuml;nde finaldeydi. Bu kez hem Messi hem de Arjantin mak&ucirc;s talihlerini yenmek i&ccedil;in &ccedil;abalayacak.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e886d3806c0f008d2324 width=100%></p>
+<p><span style=color: #0000ff;><strong>D&uuml;nya Kupası olmadı, belki Copa America olur...</strong></span></p>
+<p>Ev sahibi olduğu 2014 D&uuml;nya Kupası&rsquo;nda yaşadığı h&uuml;sran sonrası &lsquo;fa&ccedil;asını d&uuml;zeltmek&rsquo; i&ccedil;in bir t&uuml;rl&uuml; gerekli &ccedil;ıkışı yapamayan Brezilya, <strong>en son 2007 yılında kazandığı Copa America&rsquo;yı bu kez m&uuml;zesine g&ouml;t&uuml;rebilmek i&ccedil;in g&ouml;rkemli bir kadroyla sahaya &ccedil;ıkıyor.</strong> Ama son dakika s&uuml;rprizi &ouml;nemli yıldızlarını saf dışı bıraktı: Sambacıların Katar&rsquo;la oynadığı ve 2-0 kazandığı hazırlık ma&ccedil;ında sakatlanan s&uuml;per yıldız Neymar, turnuvada forma giyemeyecek.</p>
+<p><span style=color: #0000ff;><strong>3&nbsp;Arjantinli Martin Palermo</strong> </span><br>1999&rsquo;da d&uuml;zenlenen Copa America&rsquo;da ulaşılması zor bir başarıya imza attı. Kolombiya&rsquo;ya 3-0 mağlup oldukları ma&ccedil;ta Arjantinli golc&uuml; &uuml;&ccedil; penaltı atışından yararlanamadı.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e8d9d3806c0f008d2326 width=100%></p>
+<p><span style=color: #0000ff;><strong>İlk gol Şilili Piendibene&rsquo;den </strong></span><br>Copa America&rsquo;nın ilk gol&uuml; Uruguaylı Jos&eacute; Piendibene tarafından Şili&rsquo;yi 4-0 mağlup ettikleri ma&ccedil;ta kaydedildi. Şili ağlarıyla buluşan ilk gol 1916 yılında geldi.</p>
+<p><span style=color: #0000ff;><strong>Şili hat-trick peşinde<br></strong></span>Son iki turnuvanın şampiyonu Gary Medel&rsquo;li Şili, Brezilya&rsquo;da da mutlu sona erişip zinciri s&uuml;rd&uuml;rmek istiyor.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e8f0d3806c0f008d2328 width=100%></p>
+<p><span style=color: #0000ff;><strong>12 - 0</strong></span></p>
+<p>Ekvador tarihinin kara g&uuml;n&uuml; olarak kayıtlara ge&ccedil;en ma&ccedil;ta 22 Ocak 1942&rsquo;de Arjantin karşısında alınan 12-0&rsquo;lık mağlubiyet, Copa America tarihinin de en farklı ma&ccedil;ı oldu.</p>
+<p><span style=color: #0000ff;><strong>Alex de kazanmıştı <br></strong></span>Bu yıl 46&rsquo;ncısı d&uuml;zenlenen Copa America&rsquo;yı en fazla kazanan &uuml;lke 15 kezle Uruguay. Onları 14 kez mutlu sona erişen Arjantin takip ediyor. Brezilya&rsquo;nın şampiyonluk sayısıysa sekiz. &lsquo;Sambacılar&rsquo;ın 2004&rsquo;teki şampiyonluğunda Fenerbah&ccedil;eli Alex de Souza takımın kaptanıydı. Diğer kazananlar: İkişer kez Şili, Paraguay ve Peru ile birer kez Bolivya ve Kolombiya.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e908d3806c0f008d232c width=100%></p>
+<p><span style=color: #0000ff;><strong>Onlar bu kupayı hi&ccedil; kazanamadı</strong></span></p>
+<p>&lsquo;Copa America&rsquo;yı Messi&rsquo;nin yanı sıra hi&ccedil; kazanamayan G&uuml;ney Amerikalı futbol efsaneleri ş&ouml;yle: <strong>Pele</strong> (Brezilya)<strong>, Socrates </strong>(Brezilya)<strong>, Diego Armando Maradona </strong>(Arjantin)<strong>, Carlos Valderrama</strong> (Kolombiya)<strong>, Javier Zanetti</strong> (Arjantin)<strong>.</strong></p>
+<p><strong><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e921d3806c0f008d232e width=100%><br></strong></p>
+<p><span style=color: #0000ff;><strong>T&uuml;m d&uuml;nyanın dikkat kesildiği turnuva...</strong></span></p>
+<p>1973&rsquo;ten 1990&rsquo;a kadar s&uuml;ren cuntanın ardından 1991 yılında Şili&rsquo;de ger&ccedil;ekleştirilen Copa America&rsquo;da b&uuml;t&uuml;n d&uuml;nyanın g&ouml;z&uuml; turnuvadaydı. 800&rsquo;&uuml; yerel,1800 gazeteci akredite oldu ve turnuva 62 &uuml;lkede televizyondan yayımlandı. Kupayı, Şili&rsquo;yi 2-0 mağlup eden Brezilya kazanmıştı.</p>
+<p><span style=color: #0000ff;><strong>Sahada ve ben&ccedil;te şampiyon</strong></span></p>
+<p>Brezilyalı Dunga, 1989 ve 1997&rsquo;de futbolcu olarak şampiyonluk yaşadı. Ardından 2007&rsquo;de bu başarıyı Brezilya Milli Takımı&rsquo;nın teknik direkt&ouml;r&uuml; olarak tekrarladı.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e933d3806c0f008d2330 width=100%></p>
+<p><strong><span style=color: #0000ff;>17&nbsp;</span><br>Copa America tarihinin en golc&uuml; isimleri Arjantinli Norberto Mendez ve Brezilyalı Zizinho. İki oyuncunun da 17&rsquo;şer gol&uuml; var. <br></strong></p>
+<p><strong><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e969d3806c0f008d2333 width=100%></strong><strong><span style=color: #0000ff;>Hem defans hem forvet hem de hakem!</span> </strong></p>
+<p>Brezilyalı Joao de Maria 1920 yılında d&uuml;zenlenen Copa America&rsquo;da kelimenin tam anlamıyla sahanın her yerindeydi. Savunma oyuncusu ve forvet olarak forma giyen oyuncu, aynı zamanda turnuvada Arjantin-Şili ma&ccedil;ında da orta hakem olarak g&ouml;rev yaptı.</p>
+<p><strong><span style=color: #0000ff;>Yer de atar da...</span><br></strong>Copa America tarihinin ilk kaleci gol&uuml; unutulmaz futbolcu Rene Higuita&rsquo;dan geldi. 1989&rsquo;da Brezilya&rsquo;da d&uuml;zenlenen turnuvada Kolombiya&rsquo;nın Venezuela&rsquo;yı 4-2 yendiği ma&ccedil;ta Higuita gol atarak tarihe ge&ccedil;ti.</p>
+<p><img src=http://i.hurimg.com/i/hurriyet/98/770x0/5d04e969d3806c0f008d2332 width=100%></p>
+<p><span style=color: #ff0000;><strong>Uykusuz her gece...</strong></span></p>
+<p>TRT Spor&rsquo;dan naklen yayımlanacak &lsquo;Copa America&rsquo;nın ma&ccedil; programı ş&ouml;yle:</p>
+<p><strong><span style=color: #0000ff;>A GRUBU</span> </strong></p>
+<p>Brezilya-Bolivya (Oynandı)</p>
+<p>Venezuela-Peru (Oynandı)</p>
+<p><strong>19 Haziran</strong> Bolivya-Peru / 00.30</p>
+<p><strong>19 Haziran</strong> Brezilya-Venezuela / 03.30&nbsp;</p>
+<p><strong>22 Haziran</strong> Bolivya-Venezuela / 22.00:</p>
+<p><strong>22 Haziran</strong> Peru-Brezilya / 22.00</p>
+<p><span style=color: #0000ff;><strong>B GRUBU</strong></span></p>
+<p>Arjantin-Kolombiya (oynandı)</p>
+<p>Paraguay-Katar (Bu gece saat 22.00&rsquo;de)</p>
+<p><strong>20 Haziran</strong> Kolombiya-Katar / 00.30</p>
+<p><strong>20 Haziran</strong> Arjantin-Paraguay / 03.30</p>
+<p><strong>23 Haziran</strong> Katar-Arjantin / 22.00</p>
+<p><strong>23 Haziran</strong> Kolombiya-Paraguay / 22.00</p>
+<p><strong><span style=color: #0000ff;>C GRUBU</span> </strong></p>
+<p><strong>Yarın</strong> Uruguay-Ekvador / 01.00</p>
+<p><strong>18 Haziran</strong> Japonya-Şili / 02.00</p>
+<p><strong>21 Haziran</strong> Uruguay-Japonya / 02.00</p>
+<p><strong>22 Haziran</strong> Ekvador-Şili / 02.00</p>
+<p><strong>25 Haziran</strong> Şili-Uruguay / 02.00</p>
+<p><strong>25 Haziran</strong> Ekvador-Japonya / 02.00</p>
+<p><strong>&Ccedil;eyrek finaller</strong> 28 ve 29 Haziran, <strong>Yarı finaller</strong> 3 ve 4 Temmuz, <strong>Final</strong> 7 Temmuz</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>

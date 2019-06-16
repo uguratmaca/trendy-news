@@ -1,17 +1,22 @@
+<hr>
+
 {% if paginator %}
-<ul class="pagination">
+
+<nav class="pagination is-centered" role="navigation" aria-label="pagination">
+
   {% if paginator.next_page %}
-  <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.next_page}}">Sonraki Sayfa</a></li>
+  <a class="pagination-next" href="{{site.url}}/page{{paginator.next_page}}">Sonraki Sayfa</a>
   {% endif %}
 
   {% if paginator.previous_page %} {% if paginator.page == 2 %}
-  <li class="page-item"><a class="page-link" href="{{site.url}}/">Önceki Sayfa</a></li>
+  <a class="pagination-previous" href="{{site.url}}/">Önceki Sayfa</a>
   {% else %}
-  <li class="page-item"><a class="page-link" href="{{site.url}}/page{{paginator.previous_page}}/">Önceki Sayfa</a>
-  </li>
+  <a class="pagination-previous" href="{{site.url}}/page{{paginator.previous_page}}/">Önceki Sayfa</a>
   {% endif %}
   {% endif %}
-</ul>
+
+</nav>
+
 {% endif %}
 
 <script>

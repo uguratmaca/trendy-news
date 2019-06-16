@@ -2,20 +2,22 @@
 layout: default
 ---
 
-title
-{{ page.title }}
+<h1 class="title">{{ page.title }}</h1>
+<h2 class="subtitle">{{ page.newsTitle }}</h2>
 
-description
-{{ page.description }}
+<img src="{{ page.image }}" alt="{{ post.title }}">
 
-tags
-{{ page.tags }}
+<section>
+    <p>
+        {{ page.description }}
+    </p>
+</section>
 
-date
-{{ page.date }}
+<section>
+    {{ content }}
+</section>
 
-reference
-{{ page.reference }}
-
-content
-{{ content }}
+<br>
+<section>
+    <a class="is-small" href="{{ page.reference }}">Referans Haber</a>
+</section>

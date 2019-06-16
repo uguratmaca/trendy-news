@@ -5,6 +5,40 @@ title: Google Türkiye En Çok Aratılanlar
 
 {% for post in paginator.posts %}
 
-<h2><a href="{{site.url}}{{post.url}}">{{ post.title }}</a></h2>
+{% assign modular = forloop.index | modulo: 3 %}
+
+{% if modular == 1 %}
+<div class="columns is-desktop">
+    {% endif %}
+
+    <div class="column">
+        <div class="card">
+            <a href="{{site.url}}{{post.url}}">
+
+                {% if post.image %}
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="{{ post.image }}" alt="{{ post.title }}">
+                    </figure>
+                </div>
+                {% endif %}
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">{{ post.title }}</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>{{ post.newsTitle }}</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    {% if modular == 0 %}
+</div>
+{% endif %}
 
 {% endfor %}

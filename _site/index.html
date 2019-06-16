@@ -4,12 +4,14 @@
 <head>
   <meta charset="utf-8">
 <title> Google Türkiye En Çok Aratılanlar </title>
-<meta name="description" content="en çok aratılan ünlüler, en çok merak edilen ünlüler, google türkiye'de bu hafta çok aratılanlar">
+<meta name="description"
+    content="en çok aratılan ünlüler, en çok merak edilen ünlüler, google türkiye'de bu hafta çok aratılanlar">
 
 
 <meta property="og:type" content="article">
 <meta property="og:title" content="Google Türkiye En Çok Aratılanlar &#8211; En Çok Aratılanlar">
-<meta property="og:description" content="en çok aratılan ünlüler, en çok merak edilen ünlüler, google türkiye'de bu hafta çok aratılanlar">
+<meta property="og:description"
+    content="en çok aratılan ünlüler, en çok merak edilen ünlüler, google türkiye'de bu hafta çok aratılanlar">
 <meta property="og:url" content="http://localhost:4000/">
 <meta property="og:site_name" content="En Çok Aratılanlar">
 <meta property="og:locale" content="tr_TR">
@@ -20,126 +22,391 @@
 <link rel="canonical" href="http://localhost:4000/">
 <link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="En Çok Aratılanlar Feed">
 
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css">
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+
+        const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+        if ($navbarBurgers.length > 0) {
+
+            $navbarBurgers.forEach(el => {
+                el.addEventListener('click', () => {
+
+                    const target = el.dataset.target;
+                    const $target = document.getElementById(target);
+
+                    el.classList.toggle('is-active');
+                    $target.classList.toggle('is-active');
+
+                });
+            });
+        }
+
+    });
+</script>
 </head>
 
 <body>
-  <div class="header-container container">
-  <header>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="http://localhost:4000">En Çok Aratılanlar</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-        aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav mr-auto">
+  <nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+      <!-- todo logo -->
+    </a>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="yarismalarMenu" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
-              Yarışmalar
-            </a>
-            <div class="dropdown-menu" aria-labelledby="yarismalarMenu">
-              <a class="dropdown-item" href="http://localhost:4000/siir-yarismalari">Şiir Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/hikaye-yarismalari">Hikaye/Öykü Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/makale-yarismalari">Makale Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/deneme-yarismalari">Deneme Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/mektup-yarismalari">Mektup Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/masal-yarismalari">Masal Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/kompozisyon-yarismalari">Kompozisyon Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/roman-yarismalari">Roman Yarışmaları</a>
-            </div>
-          </li>
+    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="aylarMenu" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
-              Aylara Göre
-            </a>
-            <div class="dropdown-menu" aria-labelledby="aylarMenu">
-              <a class="dropdown-item" href="http://localhost:4000/mart-ayi-2019-yarismalari">Mart 2019 Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/nisan-ayi-2019-yarismalari">Nisan 2019 Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/mayis-ayi-2019-yarismalari">Mayıs 2019 Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/haziran-ayi-2019-yarismalari">Haziran 2019 Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/temmuz-ayi-2019-yarismalari">Temmuz 2019 Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/agustos-ayi-2019-yarismalari">Ağustos 2019 Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/eylul-ayi-2019-yarismalari">Eylül 2019 Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/ekim-ayi-2019-yarismalari">Ekim 2019 Yarışmaları</a>
-            </div>
-          </li>
+  <div id="navbarMenu" class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item" href="/">
+        Ana Sayfa
+      </a>
+    </div>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="yaslarMenu" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
-              Yaşa Göre
-            </a>
-            <div class="dropdown-menu" aria-labelledby="aylarMenu">
-              <a class="dropdown-item" href="http://localhost:4000/ortaokul-edebiyat-yarismalari">Ortaokul Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/lise-edebiyat-yarismalari">Lise Yarışmaları</a>
-              <a class="dropdown-item" href="http://localhost:4000/genel-edebiyat-yarismalari">Genel Yarışmalar</a>
-            </div>
-          </li>
+    <div class="navbar-end">
+      <a class="navbar-item" href="https://github.com/uguratmaca/trendy-news">
+        Github
+      </a>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="digerYarismalar" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
-              Diğer Yarışmalar
-            </a>
-            <div class="dropdown-menu" aria-labelledby="digerYarismalar">
-              <a class="dropdown-item" href="http://localhost:4000/resim-yarismalari">Resim Yarışmaları</a>
-            </div>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link" href="http://localhost:4000/feed.xml">RSS</a>
-          </li>
-        </ul>
-
-        <div class="pull-right">
-          <a class="nav-link" href="https://goo.gl/forms/jGldBsnDncNxoXF83" target="_blank">Yarışmanı Kaydet</a>
-        </div>
-      </div>
-    </nav>
-  </header>
-</div>
-  <div class="container">
-    <main>
-      
-
-<h2><a href="http://localhost:4000/articles/2019/06/16/Arjantin-Kolombiya.html">Arjantin Kolombiya</a></h2>
+      <a class="navbar-item" href="https://developers.hurriyet.com.tr/">
+        HürriyetAPI
+      </a>
+    </div>
+</nav>
+  <section class="section">
+    <div class="container">
+      <main>
+        
 
 
 
-<h2><a href="http://localhost:4000/articles/2019/06/16/Anthony-Davis.html">Anthony Davis</a></h2>
 
-
-
-<h2><a href="http://localhost:4000/articles/2019/06/15/Kolarov.html">Kolarov</a></h2>
-
-
-
-<h2><a href="http://localhost:4000/articles/2019/04/23/Cansu-Tosun.html">Cansu Tosun</a></h2>
-
-
-
-<h2><a href="http://localhost:4000/articles/2018/10/11/Bo-C5-9Falt-C4-B1m-Sistemi.html">Boşaltım Sistemi</a></h2>
-
-
-
-<h2><a href="http://localhost:4000/articles/2011/03/07/Se-C3-A7kin-Tetik-C3-A7iler.html">Seçkin Tetikçiler</a></h2>
-
-
-    </main>
+<div class="columns is-desktop">
     
-<ul class="pagination">
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/16/Ertu-C4-9Frul-Ersoy.html">
+
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Ertuğrul Ersoy</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>Gerekirse ölüyor muyuz?</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/16/AYT-konular-C4-B1.html">
+
+                
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="http://i.hurimg.com/i/hurriyet/98/620x0/5d0627e67152d815a0db13f5.jpg" alt="AYT konuları">
+                    </figure>
+                </div>
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">AYT konuları</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>YKS soruları ve cevap anahtarı ne zaman yayımlanır? Gözler üniversite sınavı sorularında</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/16/Umman.html">
+
+                
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="http://i.hurimg.com/i/hurriyet/98/620x0/5d06039967b0a9242c94f3e8.jpg" alt="Umman">
+                    </figure>
+                </div>
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Umman</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>İran'a göre tanker saldırılarından ABD sorumlu</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+</div>
+
+
+
+
+
+
+
+<div class="columns is-desktop">
+    
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/16/Copa-America.html">
+
+                
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="http://i.hurimg.com/i/hurriyet/98/620x0/5d05fbcf0f254410048d40c1.jpg" alt="Copa America">
+                    </figure>
+                </div>
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Copa America</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>Messi'li Arjantin hayal kırıklığı ile başladı!</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/16/Heyelan.html">
+
+                
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="http://i.hurimg.com/i/hurriyet/98/620x0/5d05ed5b18c77305c409dd24.jpg" alt="Heyelan">
+                    </figure>
+                </div>
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Heyelan</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>Bakan Kurum'dan G20'de Türkiye'de yatırım çağrısı</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/16/Brezilya-2C-Bolivya.html">
+
+                
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="http://i.hurimg.com/i/hurriyet/98/620x0/5d05c93dc03c0e2484326dca.jpg" alt="Brezilya, Bolivya">
+                    </figure>
+                </div>
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Brezilya, Bolivya</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>20 maddede Copa America Messi için  son çıkış!</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+</div>
+
+
+
+
+
+
+
+<div class="columns is-desktop">
+    
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/16/D-C3-BCnya-haritas-C4-B1.html">
+
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Dünya haritası</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>Dünya mafya haritası Ankara tuşuna basınca karşıma kimler çıktı</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/15/Yasir-Suba-C5-9F-C4-B1.html">
+
+                
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="http://i.hurimg.com/i/hurriyet/98/620x0/5d05657d7af5071648204373.jpg" alt="Yasir Subaşı">
+                    </figure>
+                </div>
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Yasir Subaşı</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>Şu ana kadar Fenerbahçe'den talep gelmedi</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+    <div class="column">
+        <div class="card">
+            <a href="http://localhost:4000/articles/2019/06/15/Arka-Sokaklar.html">
+
+                
+                <div class="card-image">
+                    <figure class="image is-4by3">
+                        <img src="http://i.hurimg.com/i/hurriyet/98/620x0/5d053e09d3806c0f008d2458.jpg" alt="Arka Sokaklar">
+                    </figure>
+                </div>
+                
+
+
+                <div class="card-content">
+                    <div class="media">
+                        <h2 class="title is-4">Arka Sokaklar</h2>
+                    </div>
+
+                    <div class="content">
+                        <h3>Benimle Söyle şarkı yarışmasının jüri üyeleri kimler? İşte Benimle Söyle'nin formatı</h3>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    
+</div>
+
+
+
+      </main>
+      <hr>
+
+
+
+<nav class="pagination is-centered" role="navigation" aria-label="pagination">
+
+  
+  <a class="pagination-next" href="http://localhost:4000/page2">Sonraki Sayfa</a>
   
 
   
-</ul>
+
+</nav>
+
 
 
 <script>
@@ -152,21 +419,11 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-  </div>
-
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-    crossorigin="anonymous"></script>
+    </div>
+  </section>
 
   <footer>
     <div class="container">
-    <hr>
     <div style="text-align: center;margin-bottom: 2%;">
         <a href="" rel="nofollow" target="_blank" style="padding:3%">
             <i class="fab fa-2x fa-twitter"></i>

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/uguratmaca/trendy-news/issues"
   },
-  "homepage": "https://github.com/uguratmaca/trendy-news#readme"
+  "homepage": "https://github.com/uguratmaca/trendy-news#readme",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
 }
