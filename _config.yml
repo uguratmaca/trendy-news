@@ -6,9 +6,10 @@ highlighter: rouge
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed', 'jekyll-sitemap']
 paginate: 9
 logo: logo.png
-# twitter: https://twitter.com/yarismaedebiyat
-# facebook: https://www.facebook.com/yarismaedebiyat
-# google_analytics: 'UA-122320408-1'
+twitter: https://twitter.com/nearanmis
+facebook: https://www.facebook.com/nearanmis
+google_analytics: 'UA-142198871-1'
+
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
