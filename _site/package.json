@@ -1,0 +1,19 @@
+{
+  "name": "trendy-news",
+  "version": "1.0.0",
+  "description": "Let's click me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uguratmaca/trendy-news.git"
+  },
+  "author": "Uğur Atmaca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uguratmaca/trendy-news/issues"
+  },
+  "homepage": "https://github.com/uguratmaca/trendy-news#readme"
+}

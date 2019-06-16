@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/articles/2011/03/07/Se-C3-A7kin-Tetik-C3-A7iler.html</loc>
+<lastmod>2011-03-07T12:17:15+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2018/10/11/Bo-C5-9Falt-C4-B1m-Sistemi.html</loc>
+<lastmod>2018-10-11T13:27:01+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2019/04/23/Cansu-Tosun.html</loc>
+<lastmod>2019-04-23T11:10:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2019/06/15/Kolarov.html</loc>
+<lastmod>2019-06-15T10:19:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2019/06/16/Anthony-Davis.html</loc>
+<lastmod>2019-06-16T10:27:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/articles/2019/06/16/Arjantin-Kolombiya.html</loc>
+<lastmod>2019-06-16T11:20:00+03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>
