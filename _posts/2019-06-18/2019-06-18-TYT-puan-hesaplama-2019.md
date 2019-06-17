@@ -1,0 +1,18 @@
+---
+layout: post
+category: articles
+title: "TYT puan hesaplama 2019"
+newsTitle: "İşte tüm kitapçıklarla YKS soruları ve cevap anahtarı..."
+description: "Hafta sonu gerçekleştirilen AYT-TYT sınavlarının soruları ve cevapları ÖSYM resmi internet sitesi üzerinden yayımlandı. Matematik testinde 7. sorunun iptal edildiğini duyuran ÖSYM, iptal edilen YKS soruları için puan hesaplama işleminin ise kılavuzda yer alan bilgilere göre yapılacağını ifade etti. İşte, YKS soruları ve ÖSYM'nin yaptığı açıklamanın detayları"
+tags: ['en son haberler','en çok aratılanlar','TYT puan hesaplama 2019']
+reference: "http://www.hurriyet.com.tr/egitim/yks-soru-ve-cevap-anahtari-yayinlandi-tytde-1-soru-iptal-41246263"
+date: "2019-06-17T06:31:00"
+image: "http://i.hurimg.com/i/hurriyet/98/620x0/5d0733dac9de3d1d54d60256.jpg"
+---
+
+<p>15-16 Haziran'da &uuml;&ccedil; oturum halinde yapılan YKS soru ve cevapları,&nbsp;&Ouml;SYM tarafından erişime a&ccedil;ıldı. Ayrıca &Ouml;SYM, TYT matematik testinde tartışma yaratan bir sorunun da iptal edildiğini duyurdu.</p>
+<p>&Uuml;niversiteli olmak i&ccedil;in 2.5 milyondan fazla adayın katıldığı, 15-16 Haziran'da yapılan Y&uuml;ksek&ouml;ğretim Kurumları Sınavı'nın (YKS) soru ve cevap anahtarı yayınlandı. Adaylar&nbsp;Temel Yeterlilik Testi (TYT), Alan Yeterlilik Testleri (AYT)&nbsp;ve&nbsp;Yabancı Dil Testi (YDT)&nbsp;soru kitap&ccedil;ıkları ve cevap anahtarlarını &Ouml;SYM'nin internet sitesinden ulaşabilir.</p>
+<p><strong>DEĞERLENDİRME DIŞI OLACAK<br></strong>&Ouml;te yandan 2019-TYT temel soru kitap&ccedil;ığındaki matematik testinin 7'nci sorusu &Ouml;SYM tarafından iptal edildi. Sorunun değerlendirme dışı bırakıldığı belirtilen a&ccedil;ıklamada, &ldquo;2019-TYT Temel Soru Kitap&ccedil;ığı&rsquo;ndaki Matematik Testi&rsquo;nin 7&rsquo;nci sorusunun iptal edilerek değerlendirme dışı bırakılmasına karar verilmiştir. 2019-YKS Kılavuzu&rsquo;nun &lsquo;3.10.1. Sınav Puanları Nasıl Hesaplanacaktır?&rsquo; maddesinde yer alan &lsquo;Sınavdan sonra &Ouml;SYM Başkanlığı veya yargı mercileri tarafından iptaline karar verilen sorular değerlendirme dışı bırakılarak ge&ccedil;erli soruların puan değerinin yeniden saptanması suretiyle puanlama yapılacaktır&rsquo; h&uuml;km&uuml; gereğince değerlendirme yapılacaktır&rdquo; denildi.</p>
+<p><a href=http://www.osym.gov.tr/TR,15782/2019-yks-tyt-ayt-ydt-temel-soru-kitapciklari-ve-cevap-anahtarlari.html target=_blank rel=box noopener noreferrer><strong>2019-YKS (TYT, AYT VE YDT) TEMEL SORU KİTAP&Ccedil;IKLARI VE CEVAP ANAHTARLARI</strong></a></p>
+<p><strong>PUAN HESAPLAMA NASIL YAPILACAK?</strong></p>
+<p>Her aday i&ccedil;in hesaplanmış olan OBP; 0,12 katsayısı ile &ccedil;arpılarak sınav puanlarına eklenecek ve b&ouml;ylece adayların<br>yerleştirme puanları hesaplanacaktır.<br><br>TYT puanı 150&rsquo;nin altında olan adaylar i&ccedil;in yerleştirme puanı (Y-TYT) hesaplanmayacaktır.<br><br>SAY, S&Ouml;Z, EA, DİL puanı 180&rsquo;in altında olan adaylar i&ccedil;in ilgili yerleştirme puanı (Y-SAY, Y-S&Ouml;Z, Y-EA, Y-DİL)<br>hesaplanmayacaktır.<br><br>TYT puanı olmayan, TYT puanı hesaplanmayan veya TYT puanı 150&rsquo;nin altında olan adayların, AYT ve/veya YDT&rsquo;ye<br>girmiş olsalar da SAY, S&Ouml;Z, EA, DİL i&ccedil;in sınav/yerleştirme puanları (Y-SAY, Y-S&Ouml;Z, Y-EA, Y-DİL) hesaplanmayacaktır.<br>TYT puanı 150&rsquo;nin &uuml;st&uuml;nde olan adaylardan AYT ve/veya YDT&rsquo;ye giren ve cevaplamış oldukları testlere bağlı olarak 180<br>ve &uuml;zeri puan alanların ilgili yerleştirme puanları hesaplanacaktır.</p>
