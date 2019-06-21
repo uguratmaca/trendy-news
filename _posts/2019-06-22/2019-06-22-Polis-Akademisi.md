@@ -1,0 +1,26 @@
+---
+layout: post
+category: articles
+title: "Polis Akademisi"
+newsTitle: "EGM bekçilik yazılı sınav tarihini açıkladı | Sınav giriş belgesi nasıl öğrenilir? "
+description: "Emniyet Genel Müdürlüğü (EGM) 81 ilde mahalle ve çarşılarda görevlendirilmek üzere, bekçilik alımına yönelik yazılı sınav tarihlerini açıkladı. Polis Akademisi Başkanlığı'nın internet sayfasında yapılan duyurunun ardından, adaylar sınav giriş belgeleri ve sınav tarihleri ile ilgili bilgileri araştırmaya başladı. Peki, bekçilik yazılı sınavı ne zaman? Sınav giriş yerleri nasıl öğrenilir? İşte, o konuya dair detaylar."
+tags: ['en son haberler','en çok aratılanlar','Polis Akademisi']
+reference: "http://www.hurriyet.com.tr/gundem/egm-bekcilik-yazili-sinav-tarihini-acikladi-sinav-giris-belgesi-nasil-ogrenilir-41251682"
+date: "2019-06-21T19:12:00"
+image: "http://i.hurimg.com/i/hurriyet/98/620x0/5d0d2c06d3806c2548451fc2.jpg"
+---
+
+<p>2019 yılı 8 bin bek&ccedil;i alımı istihdamına ilişkin, bek&ccedil;i adaylarının heyecanlı bekleyişi sona erdi ve sınav tarihlerine ilişkin merak edilen a&ccedil;ıklama EGM'den geldi. Sınav tarihleri ve sınav giriş yerleri, yapılan yazılı a&ccedil;ıklama ile adaylara duyuruldu. Sınav s&uuml;recinin ardından, sonu&ccedil;lar, <a href=https://www.pa.edu.tr>https://www.pa.edu.tr</a>&nbsp;adresinden ilan edilecek. Yazılı sınavda başarılı olan adaylar, parkur sınavına katılmaya hak kazanacaklar. İşte, bek&ccedil;ilik yazılı sınav tarihi ve sınav yerleriyle ilgili bazı bilgiler.</p>
+<p><strong>BEK&Ccedil;İLİK YAZILI SINAVI NE ZAMAN?</strong></p>
+<p>Emniyet Genel M&uuml;d&uuml;rl&uuml;ğ&uuml;, Polis Akademisi Başkanlığı internet sitesinde yapılan duyuruda şu ifadelere yer verildi;</p>
+<p>2019/1. D&ouml;nem &Ccedil;arşı ve Mahalle Bek&ccedil;iliğine Giriş Sınavı kapsamında 15-29 Nisan 2019 tarihleri arasında şahsen m&uuml;racaatları alınan ve &ouml;n sağlık kontrollerini başarıyla ge&ccedil;erek yazılı sınava girmeye hak kazanan adaylara 13 Temmuz 2019 Cumartesi g&uuml;n&uuml; saat 09.00&rsquo;da &ldquo;2019/1. D&ouml;nem &Ccedil;arşı ve Mahalle Bek&ccedil;iliği Yazılı Sınavı&rdquo; yapılacaktır.</p>
+<p>2019/2. D&ouml;nem &Ccedil;arşı ve Mahalle Bek&ccedil;iliğine Giriş Sınavı kapsamında 15-29 Nisan 2019 tarihleri arasında şahsen m&uuml;racaatları alınan ve &ouml;n sağlık kontrollerini başarıyla ge&ccedil;erek yazılı sınava girmeye hak kazanan adaylara 13 Temmuz 2019 Cumartesi g&uuml;n&uuml; saat 14.00&rsquo;da &ldquo;2019/2. D&ouml;nem &Ccedil;arşı ve Mahalle Bek&ccedil;iliği Yazılı Sınavı&rdquo; yapılacaktır.</p>
+<p>Sınav soruları ve cevap anahtarları 16 Temmuz 2019 tarihinde https://www.pa.edu.tr ve www.meb.gov.tr ya da http://odsgm.meb.gov.tr internet adresinden yayımlanacaktır. Sınav sonu&ccedil; bilgileri 07 Ağustos 2019 tarihinden itibaren https://www.pa.edu.tr ve www.meb.gov.tr ya da http://odsgm.meb.gov.tr internet adreslerinden yayımlanacaktır.</p>
+<p><strong>SINAV GİRİŞ BELGESİ NASIL &Ouml;ĞRENİLİR?</strong></p>
+<p>Adaylar sınav giriş belgelerini 05 Temmuz 2019 tarihinden itibaren www.meb.gov.tr internet adresinden alabileceklerdir.</p>
+<p><strong>SINAV NASIL OLACAK?</strong></p>
+<p>-Sınavda &ccedil;oktan se&ccedil;meli 5 (beş) se&ccedil;enekli testlerden oluşan A ve B soru kitap&ccedil;ığı kullanılacaktır.</p>
+<p>- Kullanımı doktor raporu ile belirlenen hasta veya engellilere ait cihazlar (işitme cihazı, ins&uuml;lin pompası, kan şekeri &ouml;l&ccedil;&uuml;m cihazı ve benzeri) hari&ccedil; sınava gelirken yanlarında; &ccedil;anta, c&uuml;zdan, cep telefonu, saat, kablosuz iletişim sağlayan cihazlar ve kulaklık, kolye, k&uuml;pe, bilezik, y&uuml;z&uuml;k, broş ve benzeri eşyalar ile her t&uuml;rl&uuml; elektronik ve/veya mekanik cihazlarla, depolama kayıt ve veri aktarma cihazları, databank, s&ouml;zl&uuml;k, hesap makinesi, k&acirc;ğıt, kitap, defter, not defteri vb. dok&uuml;manlar, pergel, a&ccedil;ı&ouml;l&ccedil;er, cetvel vb. ara&ccedil;lar, ruhsatlı veya resmi&nbsp; ama&ccedil;lı olsa bile silah ve silah yerine ge&ccedil;ebilecek nesneleri bulunan adaylar sınav binasına alınmayacaktır,</p>
+<p>- Adaylar sınava gelirken yanlarında iki adet siyah u&ccedil;lu kurşun kalem, silgi ve kalemtraş bulunduracaklardır. Ayrıca adaylar sınava şeffaf şişe i&ccedil;inde su getirebileceklerdir.</p>
+<p>- Adaylar sınava, sınav giriş belgesi ve ge&ccedil;erli kimlik belgelerinden birisi (T.C. kimlik numaralı n&uuml;fus c&uuml;zdanı, T.C. kimlik kartı, ge&ccedil;erlik s&uuml;resi devam eden pasaport veya s&uuml;r&uuml;c&uuml; belgesi) ile gireceklerdir. Sınav giriş belgesi ve ge&ccedil;erli kimlik belgesi yanında olmayan adaylar sınava alınmayacaktır.</p>
+<p>- N&uuml;fus c&uuml;zdanlarını değiştirmek i&ccedil;in n&uuml;fus m&uuml;d&uuml;rl&uuml;klerine başvuru yapan, n&uuml;fus c&uuml;zdanları n&uuml;fus m&uuml;d&uuml;rl&uuml;klerince alınan adaylar, n&uuml;fus m&uuml;d&uuml;rl&uuml;klerince kendilerine verilen fotoğraflı ve imzalı veya m&uuml;h&uuml;rl&uuml; ge&ccedil;ici kimlik belgesi/ kimlik kartı talep belgesi ile sınava alınabilecektir.</p>
