@@ -59,7 +59,10 @@ var callback = function (word) {
                 let fileContent = '---\nlayout: post\ncategory: articles';
                 fileContent += '\ntitle: "' + word + '"';
                 fileContent += '\nnewsTitle: "' + newsInstance.Title.replace(/"/g, '') + '"';
-                fileContent += '\ndescription: "' + newsInstance.Description.replace(/"/g, '') + '"';
+
+                let description = newsInstance.Description || newsInstance.Text;
+
+                fileContent += '\ndescription: "' + description.replace(/"/g, '') + '"';
                 fileContent += "\ntags: ['en son haberler','en çok aratılanlar','" + word + "']";
                 fileContent += '\nreference: "' + newsInstance.Url.replace(/"/g, '') + '"';
                 fileContent += '\ndate: "' + newsInstance.StartDate.replace(/"/g, '') + '"';
