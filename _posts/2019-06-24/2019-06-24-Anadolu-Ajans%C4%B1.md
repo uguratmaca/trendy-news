@@ -1,0 +1,20 @@
+---
+layout: post
+category: articles
+title: "Anadolu Ajansı"
+newsTitle: "ABD'deki İHA yarışmasında Yıldız Teknik Üniversitesi üçüncü oldu"
+description: "Maryland eyaletinde dünyadaki üniversiteler arasında düzenlenen insansız hava araçları yarışmasında, Yıldız Teknik Üniversitesi 12 kişilik Lagari ekibi ile üçüncü seçildi."
+tags: ['en son haberler','en çok aratılanlar','Anadolu Ajansı']
+reference: "http://www.hurriyet.com.tr/teknoloji/abddeki-iha-yarismasinda-yildiz-teknik-universitesi-ucuncu-oldu-41253154"
+date: "2019-06-24T05:13:38.08"
+image: "http://i.hurimg.com/i/hurriyet/98/620x0/5d105c0067b0a90454f5e22b.jpg"
+---
+
+<p>ABD&rsquo;nin Maryland eyaletinde d&uuml;nyadaki &uuml;niversiteler arasında d&uuml;zenlenen uluslararası insansız hava ara&ccedil;ları (İHA) yarışmasında, T&uuml;rkiye&rsquo;den Yıldız Teknik &Uuml;niversitesi (YT&Uuml;) 12 kişilik Lagari ekibi ile &uuml;&ccedil;&uuml;nc&uuml;l&uuml;ğ&uuml; elde etti.</p>
+<p>T&uuml;rk ekibinin kaptanı YT&Uuml; Mekatronik M&uuml;hendisliği B&ouml;l&uuml;m&uuml; 4. sınıf &ouml;ğrencisi Fazlı Faruk Okumuş, AA muhabirine, Maryland eyaletinin Patuxent River Donanma Hava &Uuml;ss&uuml; Webster Sahası&rsquo;nda ger&ccedil;ekleştirilen yarışmaya 31 &uuml;lkeden 75 takımın katıldığını s&ouml;yledi.</p>
+<p>Okumuş, Lochkeed Martin, Google, Rockwell ve Boeing gibi ABD&rsquo;nin &ouml;nde gelen firmalarının desteklediği bu yıl 17'ncisi d&uuml;zenlenen yarışmada, başta Harvard, Berkeley, Stanford, Cornell gibi d&uuml;nyanın bir &ccedil;ok &uuml;niversitesini geride bıraktılarını anlattı.</p>
+<p>ABD&rsquo;den sonra yarışmaya en fazla ekip &ccedil;ıkaran &uuml;lke biz olduk<br>Yarışmaya katılan takımların zorlu bir &ouml;n eleme s&uuml;recinden ge&ccedil;tiğini vurgulayan Okumuş, &ldquo;T&uuml;rkiye&rsquo;den 6 &uuml;niversite takımı ile ABD&rsquo;den sonra yarışmaya en fazla ekip &ccedil;ıkaran &uuml;lke biz olduk. Yarışmada T&uuml;rk takımları rakibimizdi ama hepsi ile gurur duyduk.&rdquo; ifadelerini kullandı.</p>
+<p>Otonom iniş kalkış, hedef vurma ve nesne tanıma gibi u&ccedil;uş g&ouml;revlerinde 75 takım arasından sabit kanat kategorisinde birinci, genel sıralamada ise &uuml;&ccedil;&uuml;nc&uuml; olduklarını kaydeden Okumuş, şunları kaydetti:</p>
+<p>Son bir yıl &ccedil;ok sıkı hazırlandık, akşama kadar s&uuml;ren derslerden sonra gece yarılarına kadar at&ouml;lyede &ccedil;alışmalar yaptık, &ouml;zelikle son bir ay okulun at&ouml;lyesinde sabahladık. &Ccedil;ok g&uuml;zel bir duyguydu, emeklerimizin karşılığını aldık. Takımımızın bu başarısı ve T&uuml;rkiye'den diğer &uuml;niversite takımlarındaki katılım &ccedil;okluğu aslında &uuml;lkemizin İHA alanındaki gelişmişliğinin g&ouml;stergesi. &Uuml;lkemizde milli savunma alanında ve İHA teknolojisi konusunda epey bir ilgi ve &ccedil;alışmalar var. Bu yarışmaya katılım sayımız bu alandaki ilgimizi g&ouml;steriyor. Ancak tabi ki bu alanda daha &ccedil;ok &ccedil;alışmalıyız.&rdquo;</p>
+<p>&Uuml;lkemizin İHA alanında geldiği yeri g&ouml;rmek beni daha da heyecanlandırıyor<br>Takım Koordinat&ouml;r&uuml;, YT&Uuml; Kontrol Otomasyon M&uuml;hendisliği B&ouml;l&uuml;m&uuml; 4. sınıf &ouml;ğrencisi M&uuml;cteba Uzunoğlu da &ldquo;Elde ettiğimiz derece i&ccedil;in bir &ouml;ğrenci olarak &ccedil;ok mutluyum ama &ouml;zellikle &uuml;lkemizin İHA alanında geldiği yeri g&ouml;rmek beni daha da heyecanlandırıyor dedi.</p>
+<p>Lagari ekibini New York'taki ofisinde ağırlayan T&uuml;rken Vakfı Başkanı Behram Turhan da T&uuml;rk &ouml;ğrencileri başarılarından dolayı tebrik ederek, &ldquo;Bu t&uuml;r uluslarası yarışmalarda T&uuml;rk gen&ccedil;lerinin, &ouml;ğrencilerinin başarıları bizi &ccedil;ok gururlandırıyor. Keşke bu &ccedil;alışmaları, heyecanı 50 sene &ouml;nce yakalasaydık, bug&uuml;n &ccedil;ok farklı yerde olurduk diye d&uuml;ş&uuml;n&uuml;yorum ifadelerini kullandı.</p>
