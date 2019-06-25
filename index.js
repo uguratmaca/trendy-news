@@ -56,6 +56,10 @@ var callback = function (word) {
 
                 let newsInstance = obj.List[0];
 
+                if (newsInstance.ContentType != 'Article') {
+                    return;
+                }
+
                 let fileContent = '---\nlayout: post\ncategory: articles';
                 fileContent += '\ntitle: "' + word + '"';
                 fileContent += '\nnewsTitle: "' + newsInstance.Title.replace(/"/g, '') + '"';
